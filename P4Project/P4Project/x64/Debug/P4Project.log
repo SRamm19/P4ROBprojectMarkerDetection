@@ -1,0 +1,24 @@
+﻿  ComputerVision.cpp
+C:\Users\SebBl\Documents\Visual Studio 2019\Projects\P4Project\P4Project\ComputerVision.cpp(119,23): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\SebBl\Documents\Visual Studio 2019\Projects\P4Project\P4Project\ComputerVision.cpp(120,32): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\SebBl\Documents\Visual Studio 2019\Projects\P4Project\P4Project\ComputerVision.cpp(120,23): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\SebBl\Documents\Visual Studio 2019\Projects\P4Project\P4Project\ComputerVision.cpp(121,26): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\SebBl\Documents\Visual Studio 2019\Projects\P4Project\P4Project\ComputerVision.cpp(146,149): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\SebBl\Documents\Visual Studio 2019\Projects\P4Project\P4Project\ComputerVision.cpp(155,153): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  P4Project.vcxproj -> C:\Users\SebBl\Documents\Visual Studio 2019\Projects\P4Project\x64\Debug\P4Project.exe
